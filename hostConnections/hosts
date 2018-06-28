@@ -1,11 +1,5 @@
 127.0.0.1	localhost
-#127.0.0.5       l.hello.akerolabs.com
-#10.0.2.15       l.hello.akerolabs.com
-10.0.2.2        l.hellovm.akerolabs.com
-127.0.0.5       l.hello.akerolabs.com
 10.0.2.2        l.hello.akerolabs.com
-192.168.1.40    l.hello.akerolabs.com
-10.0.2.15       l.hello.akerolabs.com
 
 # The following lines are desirable for IPv6 capable hosts
 ::1	ip6-localhost	ip6-loopback
